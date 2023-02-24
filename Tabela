@@ -2,6 +2,8 @@
 Projeto base, com querys em SQL para um modelo de e-commerce. 
 Algumas mudaças serão efetuadas para a melhoria do projeto.
 
+Parte 1 – Criando índices em Banco de Dados e Parte 2 - Utilização de procedures para manipulação de dados em Banco de Dados 
+
 
 create database ecommerce;
 use ecommerce;
