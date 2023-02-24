@@ -1,5 +1,6 @@
 # AtividadeSQLEcommerce
-Primeiro repositório base com querys em SQL para um modelo de e-commerce.  
+Projeto base, com querys em SQL para um modelo de e-commerce. 
+Algumas mudaças serão efetuadas para a melhoria do projeto.
 
 
 create database ecommerce;
